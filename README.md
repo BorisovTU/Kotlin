@@ -96,3 +96,17 @@ Group_Study_Project_F5
 
 Консультант 1
 -a3
+
+
+
+Задание от 23 11 2023
+(https://github.com/botu/Kotlin/tree/develope)
+1. cmd mkdir xxx  (как хотите назовите папку)
+2. cd xxx (из пункта 1)
+3. clone https://github.com/botu/Kotlin.git
+4. Открываем эту папку в idea (можно через тот же cmd "c:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3\bin\idea.bat" .)
+5. делаем checkout своей ветки, если ее нет - создаем ну или в крайнем случае checkout develope ветки
+6. создаем интерфейсы для магазина в своем пакете:
+для любой сущности - описываем операции, какие считаем нужные.
+7. CTRL+K - commit  (попросит ввести описание - напишите что-нибудь)
+8. CTRL+SHIFT+K - push
