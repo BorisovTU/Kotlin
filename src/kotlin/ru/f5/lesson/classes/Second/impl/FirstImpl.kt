@@ -1,6 +1,6 @@
-package ru.f5.lesson.classes.impl
+package ru.f5.lesson.classes.Second.impl
 
-import ru.f5.lesson.classes.intf.FirstInteface
+import ru.f5.lesson.classes.Second.intf.FirstInteface
 
 class FirstImpl: FirstInteface {
     override var field: String

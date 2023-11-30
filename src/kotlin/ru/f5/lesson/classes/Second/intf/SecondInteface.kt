@@ -1,4 +1,4 @@
-package ru.f5.lesson.classes.intf
+package ru.f5.lesson.classes.Second.intf
 interface SecondInteface {
     var field: String
     fun someMethod()

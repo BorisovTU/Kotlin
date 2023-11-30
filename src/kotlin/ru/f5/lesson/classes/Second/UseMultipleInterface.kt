@@ -1,7 +1,7 @@
 package ru.f5.lesson.classes.Second
 
-import ru.f5.lesson.classes.intf.FirstInteface
-import ru.f5.lesson.classes.intf.SecondInteface
+import ru.f5.lesson.classes.Second.intf.FirstInteface
+import ru.f5.lesson.classes.Second.intf.SecondInteface
 
 class UseMultipleInterface: FirstInteface, SecondInteface {
     fun run() {
